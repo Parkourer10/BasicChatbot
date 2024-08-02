@@ -1,0 +1,9 @@
+ollama
+langchain-ollama
+langchain
+whisper
+numpy
+sounddevice
+scipy
+pyttsx3
+torch
