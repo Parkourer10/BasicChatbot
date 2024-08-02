@@ -32,7 +32,7 @@ Question: {question}
 Answer:
 """
 
-model = OllamaLLM(model="llama3.1")
+model = OllamaLLM(model="AI")
 prompt = ChatPromptTemplate.from_template(template)
 chain = prompt | model
 
